@@ -1,5 +1,0 @@
-name: Produc QR Code module
-type: module
-description: Module for generating QR code for module.
-core: 8.x
-package: Custom
